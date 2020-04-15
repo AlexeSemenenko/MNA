@@ -1,1 +1,1 @@
-# MNA
+Methods of numerical analysis labs
